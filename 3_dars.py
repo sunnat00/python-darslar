@@ -138,4 +138,25 @@
 # console - konsol
 # REPL - Read-Eval-Print Loop - o'qish-qiymat-chiqarish aylanishi
 # syntax error - sintaksis xatosi
-#                       
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  # DATA TYPES - MA'LUMOT TURLARI
+# int - integer - butun son
+# float - o'nlik son
+# str - string - matn
+# bool - boolean - mantiqiy qiymat (True yoki False)
+# list - ro'yxat
+# tuple - o'zgarmas ro'yxat
+# dict - lug'at
+# set - to'plam
+                    
