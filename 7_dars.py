@@ -19,9 +19,21 @@
 #    print(i)
 
 
-a = "salom"
-for i in a:
-    print(i.capitalize())
+#a = "salom"
+#for i in a:
+#    print(i.capitalize())
+
+
+
+
+
+a = 0
+matn = str(input("matn: "))
+for i in matn:
+    a = a + 1
+    print(a)
+
+
 
 
 
