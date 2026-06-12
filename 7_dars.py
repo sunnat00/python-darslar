@@ -27,11 +27,23 @@
 
 
 
-a = 0
-matn = str(input("matn: "))
-for i in matn:
-    a = a + 1
-    print(a)
+#a = 0
+#matn = str(input("matn: "))
+#for i in matn:
+#    a = a + 1
+#    print(a)
+
+
+
+# for and if, elif, else
+
+
+#for i in range(1, 11):
+#    if i  % 2 !=0:  undov qoysak toq sonlarni chiqarib beradi
+#       print(i)
+
+
+
 
 
 
