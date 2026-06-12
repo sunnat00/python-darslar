@@ -8,8 +8,22 @@
 #for i in range(11):
 #    print(i) 
 
-for i in range(5, 11):
-    print(i)
+
+
+#for i in range(5, 11):
+#    print(i)
+
+
+
+#for i in range(5, 11, 2):
+#    print(i)
+
+
+a = "salom"
+for i in a:
+    print(i.capitalize())
+
+
 
 
 
